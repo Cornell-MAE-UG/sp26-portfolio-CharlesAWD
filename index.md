@@ -9,7 +9,8 @@ title: Charles Wall-Davis
 
 [Resume + Fluid Dissection + Torque Wrench Design](https://docs.google.com/document/d/1ZguE4mjCowl-Cs8a8rrmGBL0oBCmZ_Aj/edit?usp=sharing&ouid=117949089050342678655&rtpof=true&sd=true)    
 [Systems: Walking Robot](assets/Final%20Report%20MAE3260.pdf)    
-[Heat Transfer: HW Project](https://docs.google.com/document/d/1Rt87x0JO-J0N-EuQwWt675FXQ6evMlDGdCACBbc8GF4/edit?tab=t.0)    
+[Heat Transfer: HW Project](https://docs.google.com/document/d/1Rt87x0JO-J0N-EuQwWt675FXQ6evMlDGdCACBbc8GF4/edit?tab=t.0)   
+[Mechatronics: Robot Competition](https://docs.google.com/document/d/12DdhGqu5rJUiM4Gyqa7pcnwDuRg1rK17yfVMra9pLD8/edit?usp=sharing) 
 <!--[Fluid Dissection](assets/FluidDissection.pdf)    
 [Torque Wrench Design](assets/TorqueWrench.pdf)-->
  
