@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Charles Wall-Davis - Curriculum Vitae
+title: <Charles Wall-Davis> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/cv.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
