@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Heat Transfer Application
-description: Heat Transer HW Project
+description: Heat Transfer HW Project
 technologies: [n/a]
 image: /assets/images/heat-transfer-problem.jpg
 ---
