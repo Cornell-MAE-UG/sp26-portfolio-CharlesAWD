@@ -7,4 +7,4 @@ image: /assets/images/walking-robot.jpg
 ---
 
 
-[Final Report]({{ "/assets/FinalReportMAE3260.pdf" | relative_url }})
+[Final Report]({{ "/projects/assets/FinalReportMAE3260.pdf" | relative_url }})
