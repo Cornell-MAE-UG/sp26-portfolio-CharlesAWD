@@ -15,4 +15,4 @@ I’ve been running track since I was around 9 and have been through the many up
 
 I’ve previously interned at Dominion Energy as an engineering intern last summer. I worked with the Regional Operation Center and got to learn a lot about transmission line switching, grid planning, and nuclear work. The workplace helped me learn the value of safety and communication when it comes to working with multiple groups on a single project. It was an amazing opportunity to see and work with the mechanical applications of energy as well as exploring the electrical applications.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">Resume</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">resume</a>.
