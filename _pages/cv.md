@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <Charles Wall-Davis> - Curriculum Vitae
-permalink: /cv/
+title: <Charles Wall-Davis> - Resume
+permalink: /resume/
 ---
 ## Resume
 
