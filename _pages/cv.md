@@ -3,20 +3,20 @@ layout: default
 title: <Charles Wall-Davis> - Curriculum Vitae
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Resume
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+**Email:** [caw362@cornell.edu](mailto:caw362@cornell.edu) | | | **Phone:** 757 323 2144
 
 ---
 
+#### Connect
+will insert links here
+
+---
+<!--
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
@@ -72,3 +72,4 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 Available upon request.
 
 ---
+-->
