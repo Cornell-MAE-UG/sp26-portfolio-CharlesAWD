@@ -3,7 +3,7 @@ layout: project
 title: Mechanical Design
 description: Design of a Lightweight Container with tool accessoires.
 technologies: [Fusion]
-image: /assets/images/walking-robot.jpg
+image: /assets/images/adapticon.jpg
 ---
 
 
