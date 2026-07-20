@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 ## Resume
 
-[Download my resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my resume]({{ "/assets/Resume7_20_26.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [caw362@cornell.edu](mailto:caw362@cornell.edu) | | | **Phone:** 757 323 2144
@@ -13,7 +13,9 @@ permalink: /resume/
 ---
 
 #### Connect
-will insert links here
+[LinkIn](www.linkedin.com/in/charles-awd) 
+
+[Instagram](https://www.instagram.com/charles_anthonywd/) 
 
 ---
 <!--
