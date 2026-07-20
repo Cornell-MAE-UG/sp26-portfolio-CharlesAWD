@@ -13,7 +13,7 @@ permalink: /resume/
 ---
 
 #### Connect
-[LinkIn](www.linkedin.com/in/charles-awd) 
+[LinkedIn](https://www.linkedin.com/in/charles-awd/) 
 
 [Instagram](https://www.instagram.com/charles_anthonywd/) 
 
